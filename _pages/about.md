@@ -15,7 +15,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
 
-I am a first year PhD student in the School of Informatics at the University of Edinburgh, supervised by Dr. Chris Xiaoxuan Lu and co-funded by A*Star. My current research interest lies in robust autonomous perception under adverse weather with 4D Automotive radar. Prior to this, I received my B.Eng degree from Sun Yat-sen University(SYSU) in 2018. After that, I received my M.Sc from Université de Bourgogne(M1) and Université Grenoble Alpes(M2) in 2020.
+I am a first year PhD student in the School of Informatics at the University of Edinburgh, supervised by Dr. Chris Xiaoxuan Lu and co-funded by A*Star. My current research interest lies in robust autonomous perception under adverse weather with 4D Automotive radar. Prior to this, I received my B.Eng degree from Sun Yat-sen University(SYSU) in 2018. After that, I received my M.Sc from Université de Bourgogne(M1) and Université Grenoble Alpes(M2) in 2021.
 
 
 <a href="https://github.com/DJNing"><i class="fab fa-github fa-3x"></i>
