@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Teaching assistant in the University of Edinburgh
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 # Tutorial

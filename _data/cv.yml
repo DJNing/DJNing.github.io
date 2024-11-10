@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Jianning Deng
-    - name: Date of Birth
-      value: 28th Dec. 1994
+    # - name: Date of Birth
+    #   value: 28th Dec. 1994
     - name: Languages
       value: Chinese, English
 
