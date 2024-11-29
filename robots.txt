@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://djning.github.io/sitemap.xml
+Sitemap: https://DJNing.github.io/sitemap.xml
