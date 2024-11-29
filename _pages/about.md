@@ -13,7 +13,7 @@ profile:
     <p>10 Crichton St, Newington</p>
     <p>Edinburgh, UK</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
